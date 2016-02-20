@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coremod",
+  "name": "§2jtrent238's Core Mod",
+  "description": "§2Mod Made By jtrent238",
+  "version": "1.0.0.0",
+  "mcversion": "§21.7.10",
+  "url": "§2https://youtube.com/thejtrent238",
+  "updateUrl": "",
+  "authorList": ["§2jtrent238"],
+  "credits": "§2jtrent238",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
